@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UI_INPUT_EX</string>
+    <string name="btn_exit">EXIT</string>
+    <string name="btn_next">NEXT</string>
+
+    <array name="nationalities">
+        <item>Sri Lankan</item>
+        <item>Indian</item>
+        <item>Chines</item>
+        <item>Japanese</item>
+        <item>Amarican</item>
+        <item>Rushian</item>
+        <item>Douch</item>
+        <item>Australian</item>
+    </array>
+</resources>

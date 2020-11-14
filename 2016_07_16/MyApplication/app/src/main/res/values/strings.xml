@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_name">Secound Activity</string>
+    <string name="button2_name">other activity</string>
+    <string name="button3_name">open geo</string>
+</resources>

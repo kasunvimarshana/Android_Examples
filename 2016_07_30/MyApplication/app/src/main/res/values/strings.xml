@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cal_EX</string>
+    <string name="help">HELP</string>
+    <string name="close">CLOSE</string>
+    <string name="action_copy">COPY</string>
+    <string name="action_past">PAST</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="dialog_title">Dialog Title</string>
+    <string name="dialog_message">Dialog Message</string>
+</resources>
